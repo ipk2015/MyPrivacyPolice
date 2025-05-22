@@ -1,5 +1,5 @@
 ### Privacy Policy
-
+[中文版](极简天气隐私政策.md)
 Release Date: May 20, 2025
 Effective Date: May 21, 2025
 
