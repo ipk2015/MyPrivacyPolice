@@ -3,6 +3,7 @@
 [中文版](privacy-policy-for-good-weather-zh.md)
 
 Release Date: May 20, 2025
+
 Effective Date: May 21, 2025
 
 #### 1. Introduction
