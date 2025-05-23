@@ -7,7 +7,7 @@ Release Date: May 20, 2025
 Effective Date: May 21, 2025
 
 #### 1. Introduction
-Thank you for using Good Weather (hereinafter referred to as "the App"). We understand the importance of your personal information and hereby clearly outline how we collect, use, store, and protect your data. Please read this policy carefully before using the App. Your continued use of the App constitutes acceptance of this policy.
+Thank you for using PureColor Weather (hereinafter referred to as "the App"). We understand the importance of your personal information and hereby clearly outline how we collect, use, store, and protect your data. Please read this policy carefully before using the App. Your continued use of the App constitutes acceptance of this policy.
 
 #### 2. Types of Information Collected and Purposes
 Necessary Permissions and Information
@@ -17,7 +17,7 @@ Used to provide weather forecasts for your current city/region.
 Note: You may disable this permission in your device settings at any time. Disabling it will prevent automatic local weather updates.
 
 * Network Access Permission:
-Required to connect to Huawei Weather API and Amap (Gaode) API for weather data retrieval.
+Required to connect to Huawei Weather API and Amap API for weather data retrieval.
 
 * Our Commitments:
 We do not collect permissions or personal information unrelated to weather services (e.g., contacts, photos, SMS).
